@@ -9,4 +9,4 @@ my_data <- mtcars
 res <-cor.test(my_data$wt, my_data$gear, method="pearson")
 
 #cor = -0.583287 
-#Conclsusion: strong inverse relationship between wt and the number of gears, hypothesis is true
+#Conclusion: strong inverse relationship between wt and the number of gears, hypothesis is true
