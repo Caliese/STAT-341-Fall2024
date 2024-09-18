@@ -21,4 +21,4 @@ res <-cor.test(my_data$wt, my_data$mpg, method="pearson")
 res
 
 #cor = -0.8676594 
-#conclusion: strong inverse relationship between rate and miles per gallon, hypothesis is true
+#conclusion: strong inverse relationship between weight and miles per gallon, hypothesis is true
