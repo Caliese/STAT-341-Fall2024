@@ -13,3 +13,6 @@ Output
 
 data:  data_frame$treatment and data_frame$improvement
 X-squared = 5.5569, df = 1, p-value = 0.01841
+
+#p-value is significant if less than 0.05.
+#Conclusion: Therefore there is a significant difference between improved vs not improved patients
